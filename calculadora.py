@@ -38,7 +38,7 @@ elif numero == 4:
     print("elegiste exponente\n")
     numero = int(input("indica el primer numero :"))
     numero **= int(input("indica el segundo numero :"))
-    print("el resultado de la expenonciacion(xd) es :", numero )
+    print("el resultado de la exponciacion(xd) es :", numero )
 
 elif numero == 5:
     print("elegiste division\n")
